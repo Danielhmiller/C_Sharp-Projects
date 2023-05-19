@@ -1,0 +1,38 @@
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.exe
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.deps.json
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.dll
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.pdb
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.Views.dll
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\bin\Debug\netcoreapp3.1\Hello World2.Views.pdb
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.RazorAssemblyInfo.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.RazorAssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\staticwebassets\Hello World2.StaticWebAssets.Manifest.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\staticwebassets\Hello World2.StaticWebAssets.xml
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello World2.styles.css
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.TagHelpers.input.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.TagHelpers.output.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.RazorCoreGenerate.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.RazorTargetAssemblyInfo.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.RazorTargetAssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.Views.pdb
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.dll
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.pdb
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Hello World2\Hello World2\obj\Debug\netcoreapp3.1\Hello World2.csproj.CopyComplete
