@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\bin\Debug\netcoreapp3.1\Math Operators.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Math Operators\Math Operators\obj\Debug\netcoreapp3.1\Math Operators.genruntimeconfig.cache
