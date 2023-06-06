@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\bin\Debug\netcoreapp3.1\Package Express.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Package Express\Package Express\obj\Debug\netcoreapp3.1\Package Express.genruntimeconfig.cache
