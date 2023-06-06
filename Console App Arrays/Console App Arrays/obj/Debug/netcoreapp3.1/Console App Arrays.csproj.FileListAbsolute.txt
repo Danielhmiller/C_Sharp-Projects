@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\bin\Debug\netcoreapp3.1\Console App Arrays.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Console App Arrays\Console App Arrays\obj\Debug\netcoreapp3.1\Console App Arrays.genruntimeconfig.cache
