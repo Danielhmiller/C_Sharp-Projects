@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\bin\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Boolean Logic\Boolean Logic\obj\Debug\netcoreapp3.1\Boolean Logic.genruntimeconfig.cache
