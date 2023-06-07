@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\bin\Debug\netcoreapp3.1\Six Part Project.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Six Part Project\Six Part Project\obj\Debug\netcoreapp3.1\Six Part Project.genruntimeconfig.cache
