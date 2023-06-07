@@ -29,7 +29,7 @@ namespace Console_App_Arrays
                 string[] Alphabet = { "a", "b", "c", "d", "e" };
                 int input2 = Convert.ToInt32(Console.ReadLine());
 
-                if (input2 >Alphabet.Length)
+                if (input2 >= Alphabet.Length)
                 {
                     Console.WriteLine("Index Does not exist ");
                     Console.ReadLine();
@@ -49,7 +49,7 @@ namespace Console_App_Arrays
                 Console.WriteLine("Select an index of the Array");
                 int input3 = Convert.ToInt32(Console.ReadLine());
 
-                if (input3 > intList.Count)
+                if (input3 >= intList.Count)
                 {
                     Console.WriteLine("Index Does not exist ");
                     Console.ReadLine();
