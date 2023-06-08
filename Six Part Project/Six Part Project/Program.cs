@@ -1,67 +1,211 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Six_Part_Project
 {
     class Program
     {
         static void Main(string[] args)
+        {
+            // Part 1
+            string[] strArray = { "Hello", "Goodbye", "See you later", "Nice to meet you", "Good to see you", "How are you" };
+
+            Console.WriteLine("Input some text below.\n");
+            string input = Console.ReadLine();
+
+            for (int i = 0; i < strArray.Length; i++)
             {
-                Console.WriteLine("Select an index of the Array");
-                int[] numArray = new int[] { 1, 2, 3, 4, 5 };
-                Console.WriteLine("Please input a number.");
-                int input = Convert.ToInt32(Console.ReadLine());
-                if (input > numArray.Length)
+                strArray[i] = strArray[i] + " " + input;
+            }
+
+            Console.WriteLine("\n");
+
+            for (int i = 0; i < strArray.Length; i++)
+            {
+                Console.WriteLine("\n" + strArray[i]);
+            }
+
+            Console.ReadLine();
+            // End Part 1
+
+            // Part 2
+            int num = 1;
+
+            do
+            {
+                Console.WriteLine(num++);
+            }
+            // To make this an infinite loop, change (num < 5000) ---> (num > 0).
+            while (num < 5000);
+
+            Console.WriteLine("Ending number is " + num);
+            Console.ReadLine();
+            // End Part 2
+
+            // Part 3
+            int loopNum = 0;
+            int loopNum2 = 0;
+
+            while (loopNum < 10)
+            {
+                loopNum++;
+                Console.WriteLine(loopNum);
+            }
+
+            Console.ReadLine();
+
+            while (loopNum2 <= 19)
+            {
+                loopNum2++;
+                Console.WriteLine(loopNum2);
+            }
+            // End Part 3
+
+            // Part 4
+            List<string> wordList = new List<string>
+            {
+                "oblivious",
+                "brainless",
+                "slow",
+                "cool",
+                "level",
+                "indifferent",
+                "fast",
+                "class",
+                "temper",
+                "compare",
+                "injure",
+                "stick",
+                "aspiring",
+                "flock",
+                "imminent",
+                "extra-large",
+                "spark",
+                "pond",
+                "passenger",
+                "groan",
+                "remember",
+                "act",
+                "plan",
+                "clumsy",
+                "buff"
+            };
+
+            Console.WriteLine("\n\nSearch the String List. Enter your search term below.\n");
+            string searchTerm = Console.ReadLine();
+
+            for (int i = 0; i < wordList.Count; i++)
+            {
+                if (wordList.Contains(searchTerm))
                 {
-                    Console.WriteLine("Index Does not exist ");
-                    Console.ReadLine();
+                    Console.WriteLine("\n\"" + searchTerm + "\" is at indices " + wordList.IndexOf(searchTerm) + ".");
+                    break;
                 }
                 else
                 {
-                    Console.WriteLine(numArray[input]);
-                }
-                Console.ReadLine();
-
-
-                Console.WriteLine("Guess a number between 1 - 10");
-                int number = Convert.ToInt32(Console.ReadLine());
-                bool guess = number == 7;
-
-                //I made my infinite loop into a while statement
-                while (guess == false)
-                {
-                    switch (number)
-                    {
-                        case 88:
-                            Console.WriteLine("You did it!");
-                            guess = true;
-                            break;
-
-                        case 99:
-                            Console.WriteLine("WRONG, try again");
-                            Console.WriteLine("Guess a number between 1 - 100");
-                            number = Convert.ToInt32(Console.ReadLine());
-                            break;
-
-                        case 57:
-                            Console.WriteLine("One more try!");
-                            Console.WriteLine("Guess a number between 1 - 100");
-                            number = Convert.ToInt32(Console.ReadLine());
-                            break;
-
-                        case 5:
-                            Console.WriteLine("Nice try but that is not correct");
-                            Console.WriteLine("Guess a number between 1 - 100");
-                            number = Convert.ToInt32(Console.ReadLine());
-                            break;
-
-                        default:
-                            Console.WriteLine("Nope, Try again");
-                            Console.WriteLine("Guess a number between 1 - 100");
-                            number = Convert.ToInt32(Console.ReadLine());
-                            break;
-                    }
+                    Console.WriteLine("\n\"" + searchTerm + "\" is not in the list.");
+                    break;
                 }
             }
+            // End Part 4
+
+            // Part 5
+            List<string> wordList2 = new List<string>
+            {
+                "oblivious",
+                "brainless",
+                "slow",
+                "cool",
+                "level",
+                "indifferent",
+                "fast",
+                "class",
+                "temper",
+                "compare",
+                "injure",
+                "stick",
+                "aspiring",
+                "flock",
+                "imminent",
+                "extra-large",
+                "spark",
+                "pond",
+                "passenger",
+                "groan",
+                "remember",
+                "act",
+                "plan",
+                "clumsy",
+                "buff"
+            };
+
+            Console.WriteLine("\n\nSearch the String List. Enter your search term below.\n");
+            string searchTerm2 = Console.ReadLine();
+
+            for (int i = 0; i < wordList2.Count; i++)
+            {
+                if (wordList2[i] == searchTerm2)
+                {
+                    Console.WriteLine("\n\"" + searchTerm2 + "\" is at indices " + i + ".");
+                }
+                else
+                {
+                    Console.WriteLine("\n\"" + searchTerm2 + "\" is not in the list.");
+                }
+            }
+            // End Part 5
+
+            Console.WriteLine("\n");
+            Console.ReadLine();
+
+            //Part 6
+            List<string> wordList3 = new List<string>
+            {
+                "oblivious",
+                "brainless",
+                "slow",
+                "cool",
+                "level",
+                "indifferent",
+                "fast",
+                "class",
+                "temper",
+                "compare",
+                "injure",
+                "stick",
+                "aspiring",
+                "flock",
+                "imminent",
+                "extra-large",
+                "spark",
+                "pond",
+                "passenger",
+                "groan",
+                "remember",
+                "act",
+                "plan",
+                "clumsy",
+                "buff"
+            };
+
+            List<string> checkList = new List<string>();
+
+            foreach (string s in wordList3)
+            {
+                if (checkList.Contains(s))
+                {
+                    Console.WriteLine("\n\"" + s + "\" already appears in the list.");
+                }
+                else
+                {
+                    Console.WriteLine("\n\"" + s + "\" hasn't appeared yet.");
+                    checkList.Add(s);
+                }
+            }
+            // End part 6
+
+            Console.Read();
         }
-    }   
-    
+    }
+}
+
