@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\bin\Debug\Part Six Project.exe.config
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\bin\Debug\Part Six Project.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\bin\Debug\Part Six Project.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\obj\Debug\Part Six Project.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\obj\Debug\Part Six Project.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\obj\Debug\Part Six Project.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Part Six Project\Part Six Project\obj\Debug\Part Six Project.pdb
