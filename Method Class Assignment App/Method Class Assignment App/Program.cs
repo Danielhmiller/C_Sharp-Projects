@@ -17,7 +17,7 @@ namespace Method_Class_Assignment_App
             method.Methodclass(chosenInt);
 
             // Have the user enter 2 numbers.
-            Console.WriteLine("\nInput an integer.\n");
+            Console.WriteLine("\n  You can also input an integer if you would like to.\n");
             int chosenInt2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\n input another integer.\n");
             int chosenInt3 = Convert.ToInt32(Console.ReadLine());

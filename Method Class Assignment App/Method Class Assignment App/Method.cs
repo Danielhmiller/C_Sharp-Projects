@@ -27,7 +27,7 @@ namespace Method_Class_Assignment_App
         public void Methodclass(int num3, int num4 = 5)
         {
             int result = (num3 / 2) * num4;
-            Console.WriteLine("\n" + num3 + " * " + num4 + " = " + result);
+            Console.WriteLine("\n" + num3 + "  " + num4 + " = " + result);
         }
     }
 
