@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\bin\Debug\netcoreapp3.1\Try Catch App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Try Catch App\Try Catch App\obj\Debug\netcoreapp3.1\Try Catch App.genruntimeconfig.cache
