@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\bin\Debug\netcoreapp3.1\Method Class Assignment App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method Class Assignment App\Method Class Assignment App\obj\Debug\netcoreapp3.1\Method Class Assignment App.genruntimeconfig.cache
