@@ -85,7 +85,7 @@ namespace Six_Part_Project
                 "passenger",
                 "groan",
                 "remember",
-                "act",
+                "broom",
                 "plan",
                 "clumsy",
                 "buff"
@@ -93,18 +93,19 @@ namespace Six_Part_Project
 
             Console.WriteLine("\n\nSearch the String List. Enter your search term below.\n");
             string searchTerm = Console.ReadLine();
+            bool found = false;
 
             for (int i = 0; i < wordList.Count; i++)
             {
-                if (wordList.Contains(searchTerm))
+                if (wordList[i] == searchTerm)
                 {
                     Console.WriteLine("\n\"" + searchTerm + "\" is at indices " + wordList.IndexOf(searchTerm) + ".");
+                    found = true;
                     break;
                 }
-                else
+                if (!found)
                 {
                     Console.WriteLine("\n\"" + searchTerm + "\" is not in the list.");
-                    break;
                 }
             }
             // End Part 4
@@ -133,24 +134,26 @@ namespace Six_Part_Project
                 "passenger",
                 "groan",
                 "remember",
-                "act",
+                "level",
                 "plan",
                 "clumsy",
                 "buff"
             };
 
             Console.WriteLine("\n\nSearch the String List. Enter your search term below.\n");
-            string searchTerm2 = Console.ReadLine();
+            string searchTerm1 = Console.ReadLine();
+            bool found1 = false;
 
             for (int i = 0; i < wordList2.Count; i++)
             {
-                if (wordList2[i] == searchTerm2)
+                if (wordList2[i] == searchTerm1)
                 {
-                    Console.WriteLine("\n\"" + searchTerm2 + "\" is at indices " + i + ".");
+                    Console.WriteLine("\n\"" + searchTerm1 + "\" is at indices " + i + ".");
+                    found1 = true;
                 }
-                else
+                if (!found1)
                 {
-                    Console.WriteLine("\n\"" + searchTerm2 + "\" is not in the list.");
+                    Console.WriteLine("\n\"" + searchTerm1 + "\" is not in the list.");
                 }
             }
             // End Part 5
