@@ -8,25 +8,25 @@ namespace Main_Method_App
         {
             Method method = new Method();
 
-            Console.WriteLine("Please enter a number to use in the operation.");
+            Console.WriteLine("Please enter a number to use in the operation.");// writes the quotated text to the console
             int chosenNum1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("If you wish, you may enter a second number. If not, leave blank.");
+            Console.WriteLine("If you wish, you may enter a second number. If not, leave blank.");//same as above
             string chosenNum2 = Console.ReadLine();
 
-            if (chosenNum2 == "")
+            if (chosenNum2 == "")// if function that calculates the given number and multiplies and divides
             {
                 Console.WriteLine("The operation came out to be:");
-                Console.WriteLine("(" + chosenNum1 + " * 5) / 2 = " + method.Operation(chosenNum1));
+                Console.WriteLine("(" + chosenNum1 + " * 7) / 2 = " + method.Operation(chosenNum1));
             }
-            else
+            else // if it doesn't run the top it will run the below
             {
                 int chosenNum2Int = Convert.ToInt32(chosenNum2);
                 Console.WriteLine("The operation came out to be:");
-                Console.WriteLine("(" + chosenNum1 + " * 5) / " + chosenNum2Int + " = " + method.Operation(chosenNum1, chosenNum2Int));
+                Console.WriteLine("(" + chosenNum1 + " * 7) / " + chosenNum2Int + " = " + method.Operation(chosenNum1, chosenNum2Int));
             }
 
-            Console.Read();
+            Console.ReadLine();// ends the function
         }
     }
 }
