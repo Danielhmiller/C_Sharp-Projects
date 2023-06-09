@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\bin\Debug\netcoreapp3.1\Method App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Method App\Method App\obj\Debug\netcoreapp3.1\Method App.genruntimeconfig.cache
