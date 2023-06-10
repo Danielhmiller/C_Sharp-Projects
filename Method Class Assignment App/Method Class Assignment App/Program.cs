@@ -12,6 +12,7 @@ namespace Method_Class_Assignment_App
             // Have the user enter a number.
             Console.WriteLine("Input an integer.\n");
             int chosenInt = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input another integer.\n");
 
             // Call the method on that number.
             method.Methodclass(chosenInt);
