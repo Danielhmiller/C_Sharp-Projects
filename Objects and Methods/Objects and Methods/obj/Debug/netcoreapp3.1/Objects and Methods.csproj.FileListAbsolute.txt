@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.exe
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.deps.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\bin\Debug\netcoreapp3.1\Objects and Methods.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.dll
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.pdb
+C:\Users\danie\Documents\GitHub\C_Sharp Projects\Objects and Methods\Objects and Methods\obj\Debug\netcoreapp3.1\Objects and Methods.genruntimeconfig.cache
