@@ -16,7 +16,7 @@ namespace Abstract_Class
 
             IQuit quit = new Employee();
 
-            quittable.Quit();
+            quit.Quit();
 
             Console.ReadLine();
 
@@ -57,9 +57,9 @@ namespace Abstract_Class
             // foreach loop to find all named "Joe"
             foreach (Employee worker in employees)
             {
-                if (worker.FirstName == "Joe")
+                if (worker.FirstName == "John")
                 {
-                    List<Employee> joes = new List<Employee>() { worker };
+                    List<Employee> johns = new List<Employee>() { worker };
                     Console.WriteLine("\n-First Name: \"" + worker.FirstName + "\" -Last Name: \"" + worker.LastName + "\" -ID: \"" + worker.ID + "\"");
                 }
             }
@@ -67,12 +67,12 @@ namespace Abstract_Class
             Console.ReadLine();
 
             // Lambda to find all named "Joe" and add them to list
-            List<Employee> joes2 = employees.Where(x => x.FirstName == "Joe").ToList();
+            List<Employee> johns2 = employees.Where(x => x.FirstName == "John").ToList();
 
             // Prints them to screen
-            foreach (Employee joe in joes2)
+            foreach (Employee john in johns2)
             {
-                Console.WriteLine("\n-First Name: \"" + joe.FirstName + "\" -Last Name: \"" + joe.LastName + "\" -ID: \"" + joe.ID + "\"");
+                Console.WriteLine("\n-First Name: \"" + john.FirstName + "\" -Last Name: \"" + john.LastName + "\" -ID: \"" + john.ID + "\"");
             }
 
             Console.ReadLine();
