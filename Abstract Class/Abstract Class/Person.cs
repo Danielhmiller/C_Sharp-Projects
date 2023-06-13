@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Abstract_Class
 {
-    class Person
+    public abstract class Person
     {
+        public string FirstName;
+        public string LastName;
+
+        public abstract void SayName();
     }
 }
