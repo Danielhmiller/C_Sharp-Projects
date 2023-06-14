@@ -10,7 +10,7 @@ namespace Polymorphsim
 
             employee.Quit("Sample Student"); //call Quit method from interface IQuittable
 
-            Console.ReadLine(); // keep console window open
+            Console.ReadLine();
         }
     }
 }
