@@ -4,12 +4,9 @@ using System.Text;
 
 namespace Polymorphsim
 {
-    class Iquittable
-    {
-        interface IQuittable
+        interface IQuitable
         {
             //void Quit(Employee employee); //void method called Quit
             void Quit(string name);
         }
-    }
 }

@@ -6,7 +6,7 @@ namespace Polymorphsim
     {
         static void Main(string[] args)
         {
-            Iquittable employee = new Employee();
+            IQuitable employee = new Employee();
 
             employee.Quit("Sample Student"); //call Quit method from interface IQuittable
 
