@@ -1,0 +1,14 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.AssemblyReference.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\TwentyOne\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb
