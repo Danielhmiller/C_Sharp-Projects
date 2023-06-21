@@ -1,0 +1,7 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\obj\Debug\DateTime.cs.csproj.AssemblyReference.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\obj\Debug\DateTime.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\bin\Debug\DateTime.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\bin\Debug\DateTime.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\bin\Debug\DateTime.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\obj\Debug\DateTime.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\DateTime\DateTime\DateTime.cs\obj\Debug\DateTime.cs.pdb

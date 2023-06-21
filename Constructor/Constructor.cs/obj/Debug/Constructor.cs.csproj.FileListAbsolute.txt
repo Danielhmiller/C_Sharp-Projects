@@ -1,0 +1,7 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\bin\Debug\Constructor.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\bin\Debug\Constructor.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\bin\Debug\Constructor.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\obj\Debug\Constructor.cs.csproj.AssemblyReference.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\obj\Debug\Constructor.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\obj\Debug\Constructor.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\Constructor\Constructor\Constructor.cs\obj\Debug\Constructor.cs.pdb
