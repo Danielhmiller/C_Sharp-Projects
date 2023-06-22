@@ -1,0 +1,12 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.dll
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.xml
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.AssemblyReference.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.CopyComplete
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\CodeFirstChallenge\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.pdb
